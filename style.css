@@ -14,7 +14,7 @@ body{
 }
 
 header{
-    margin: 44px 0px 99px 480px;
+    margin: 44px 0px 99px 500px;
     align-self: center;
     text-decoration: none;
 }
@@ -47,14 +47,12 @@ header{
 }
 
 .img-logo{
-    width: 568px;
     height: 500px;
-    margin-left: 125px;
     display: inline-block;
 }
 
 main{
-    margin-left: 95px;
+    margin-left: 325px;
 }
 
 section{
